@@ -1,0 +1,55 @@
+1
+Player Class Growths
+0x1000000
+256
+8
+FE8 Class Editor.txt
+NULL
+
+HP Growth
+0
+1
+NEDS
+NULL
+
+STR Growth
+1
+1
+NEDS
+NULL
+
+SKL Growth
+2
+1
+NEDS
+NULL
+
+SPD Growth
+3
+1
+NEDS
+NULL
+
+DEF Growth
+4
+1
+NEDS
+NULL
+
+RES Growth
+5
+1
+NEDS
+NULL
+
+LUK Growth
+6
+1
+NEDS
+NULL
+
+MAG Growth
+7
+1
+NEDU
+NULL
