@@ -1,9 +1,10 @@
 // basesTableEntry(UnitID,Boolean) where UnitID is self explanatory and "Boolean" is True if you want the unit's bases to be separate, False if you want them to be added 
 // All of these are set to False by default, so only macro in the ones you want to change
+// Note that you can either use defined character names or their corresponding number, both work
 
-basesTableEntry(0x1 ,		True)
-basesTableEntry(0x2 ,		True)
-basesTableEntry(0x3 ,		True)
+basesTableEntry(Eirika,		True)
+basesTableEntry(Seth,		True)
+basesTableEntry(Gilliam,	True)
 basesTableEntry(0x4 ,		True)
 basesTableEntry(0x5 ,		True)
 basesTableEntry(0x6 ,		True)
